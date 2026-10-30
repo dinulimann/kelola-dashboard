@@ -2,6 +2,8 @@
 
 [![ci](https://github.com/dinulimann/kelola-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/dinulimann/kelola-dashboard/actions/workflows/ci.yml)
 
+**Live demo:** https://kelola-dashboard.vercel.app
+
 ![Overview in light mode, order detail in dark mode](docs/screenshot.jpg)
 
 An admin console for **Senja Coffee**, a fictional four-branch coffee chain. It is a UI showcase: there is no backend, and every order, product and customer is generated in the browser from a fixed seed. Changes you make are saved in `localStorage`, and **Settings → Demo data** puts everything back.
